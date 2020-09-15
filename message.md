@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 留言板
-subtitle: haha 
+subtitle: haha  
 ---
 
 ### 昵称
